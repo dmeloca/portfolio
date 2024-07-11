@@ -1,14 +1,15 @@
 # Daniel Melo
 Welcome to my personal portfolio. Here you could find some of my repos, posts and investigation around my CS degree 
 
+## Investigation
+- [The zero behind math](https://dmeloca.github.io/investigation/zero-behind-math.html)
+
+## Blog
+- [Cs degree vision](https://dmeloca.github.io/posts/cs-degree-vision.html)
+
 ## Projects
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}
 
 
-## Investigation
-_Here will be the investigation posts_
-
-## Blog
-_Here will be the blog posts_
