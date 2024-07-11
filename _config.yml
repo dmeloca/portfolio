@@ -6,7 +6,6 @@ markdown: kramdown
 site.github: {
   "owner_name": "dmeloca",
   "owner_url": "https://github.com/dmeloca",
-  "public_repositories": ["https://github.com/dmeloca/Takemaru", "https://github.com/dmeloca/to-do_list", "https://github.com/dmeloca/library"]
 }
 gist:
   noscript: false
