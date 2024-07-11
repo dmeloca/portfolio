@@ -18,4 +18,4 @@ I'm a coputer science student at the National University of Colombia, where i st
 
 
 # Quote
-_One should never try to prove anything that is not almost obvious_ *Alexander Grothendieck*
+_One should never try to prove anything that is not almost obvious_ **Alexander Grothendieck**
