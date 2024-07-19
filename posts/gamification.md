@@ -7,7 +7,7 @@ I’m a disorganized person, but in recent years, I have been searching for a me
 
 ## Development
 
-As Austin discusses in his post, real life doesn’t have progress bars or streaks to guide personal or professional improvement. Keeping track on your own can be demotivating (even though there are apps and websites that do this for you). These apps try to bring medals, badges, or titles into real life. However, humans are social animals and constantly compare ourselves with others. This can lead to toxic competitiveness if we don’t change our mindset. There are two potential outcomes: either we hurt ourselves by regretting what we did or didn't do, or we hurt others by envying those who have what we desire or by discrediting their achievements. But does this happen in every case?
+As Austin discusses in his post, real life doesn’t have progress bars or streaks to guide personal or professional improvement. Keeping track on your own can be demotivating (even though there are apps and websites that do this for you). These apps try to bring medals, badges, or titles into real life. However, (we the) _homo sapiens_ are social animals and constantly compare ourselves with others. This can lead to toxic competitiveness if we don’t change our mindset. There are two potential outcomes: either we hurt ourselves by regretting what we did or didn't do, or we hurt others by envying those who have what we desire or by discrediting their achievements. But does this happen in every case?
 
 ## Solution?
 
@@ -15,4 +15,4 @@ I don't want to generalize, as I have met some people who manage these feelings 
 
 ## Conclusion
 
-In my experience, applying this method to my life only works if I don’t overthink what I’m doing. I’m not trying to discourage anyone from using it; I’m just saying it doesn’t work for me. My conclusion is that forcing ourselves to complete tasks isn’t helpful. It’s better to do something because we genuinely want to achieve it and find it enjoyable, without needing an elaborate background or external validation.
+In my experience, applying this method to my life only works if I don’t overthink what I’m doing. I’m not trying to discourage anyone from using it; I’m just saying it doesn’t work for me. My conclusion is that forcing ourselves to complete tasks isn’t helpful. It’s better to do something because we genuinely want to achieve it and find it enjoyable, without needing an elaborate background just make it if you think is funny.
