@@ -8,6 +8,7 @@ Welcome to my personal portfolio. Here you could find some of my repos, posts an
 - [Cs degree vision](https://dmeloca.github.io/posts/cs-degree-vision.html)
 - [PyTorch Notes](https://dmeloca.github.io/posts/pytorch.html)
 - [Gamification](https://dmeloca.github.io/posts/gamification.html)
+- [Optimism](https://dmeloca.github.io/posts/optimism.html)
 
 
 ## Projects
