@@ -4,42 +4,13 @@ post [Optimism](https://stephango.com/optimism)
 
 # Optimism
 ## Personal experience
-Before starting to write about my opinion of the optimism, i would start
-talking about my personal experience around this topic. 
-Recently while thinking about the changes of my life around the time I started 
-noticing that my recent thoughs were charged with a lot of pessimism compared
-to the thoughs that i had when i was younger, so guided by Ango's post I wanted
-to find the things that have changed in my context. For example I found that I 
-have finished my school but what i had planned didn't come true, so for that
-time I was very unmotivated and whishing that the school time come over very fast, 
-since then I change the time distance for my plans and thinking more about 
-auxiliary plans.
+Before sharing my opinion on optimism, I want to start by discussing my personal experience with this topic. Recently, while reflecting on the changes in my life, I noticed that my recent thoughts were much more pessimistic compared to those I had when I was younger. Inspired by Ango's post, I wanted to identify what had changed in my context. For example, I found that although I had finished school, my plans didn't come to fruition. During that time, I felt very unmotivated and wished for the school years to end quickly. Since then, I have adjusted the timelines for my plans and started considering more backup plans.
 
 ## All people act the same?
-I think that growing up implies to met a lot of new people (different context,
-cultures, habits or ideologies)and how we could filter the persons that could 
-mix with our personalities or if his/her intentions could benefict us. It's very
-complex since i know anyone could read the mind so we need to test the person and
-as the time pass we start developing a trust in each other but even a long 
-friendship could end bad or someone could make a mistake and sent the relation 
-to the forgiveness. So, is better to start the relation as a withe board?
-I think (us) the _Homo Sapiens_ are selfish so we always will priorize our
-benefict if and only if we will not win something, so wait to a person to do 
-something just for the friendship could be a dream (in some cases could be 
-possible, who knows?)
+I believe that growing up involves meeting many new people from different backgrounds, cultures, habits, and ideologies. We need to determine who fits with our personalities and who has intentions that might benefit us. This process is complex since we can't read minds. We need to test people over time, gradually developing trust. However, even long-term friendships can end badly or suffer from mistakes that require forgiveness. So, should we start relationships as blank slates? I think (we) _homo sapiens_ are inherently selfish, prioritizing our own benefits unless there's nothing to gain. Expecting someone to do something purely for friendship can be unrealistic (though it can happen in some cases).
 
 ## The point of view
-I want to change your point of view around the pessimism because i dont wait
-to the things could go bad, i knew it and it's a surprise if it go better than 
-you expected, just imagine to start a shop and wait to became the top sellers 
-in one week, where the process is? you need to make the things you want even if
-the things could go bad, and not just for the reward, enjoy the process enjoy
-the bad grades enjoy the lessons, if the reward is the motivation to make
-something you mustn't start making that
+I want to change your perspective on pessimism. It's not about expecting things to go wrong; it's about being pleasantly surprised when they go better than expected. Imagine starting a business and expecting to become top sellers in one week—where's the process in that? You need to pursue your goals even if things might go wrong. Don't just focus on the reward; enjoy the process, the failures, and the lessons learned. If the reward is your only motivation, you shouldn't start in the first place.
 
 ## Conclussion
-I know that having a pessimism point of view could be a lot more easy that being
-optimism but being pessimist could prepare you mentally to overcome bad times 
-(because they exists). Not always you will win so start making your reward the 
-time you spent making something, enjoy the adversities, choose the things that 
-will help you to grow and dont wait for a reward to make something.
+I know that having a pessimistic point of view can be easier than being optimistic. However, being a pessimist can mentally prepare you to overcome tough times (because they do exist). You won't always win, so make the time spent on something your reward. Enjoy the adversities, choose things that help you grow, and don't wait for a reward to motivate you.
